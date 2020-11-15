@@ -2,17 +2,15 @@ package com.example.quizzer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.View;
-import android.widget.RadioButton;
-import android.widget.RadioGroup;
-import android.widget.TextView;
-import android.widget.Toast;
-
 import java.util.ArrayList;
-
+import android.view.Gravity;
+import android.widget.Toast;
+import android.content.Intent;
+import android.widget.TextView;
+import android.widget.RadioGroup;
+import android.widget.RadioButton;
 import static java.util.Arrays.asList;
 
 public class MainActivity extends AppCompatActivity {
@@ -44,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             selectedList.set(index, choice.getText().toString());
         }
     }
-    
+
     public void goForward(View view)
     {
         if(index == 9)

@@ -46,7 +46,7 @@
 			<item>Ratanbai</item>
 		</string-array>
 		
-		<string-array name="answers">
+		<string-array name="corrects">
 			<item>December 25</item>
 			<item>Karachi</item>
 			<item>Wazir Mansion in Kharadar</item>
