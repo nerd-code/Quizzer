@@ -4,16 +4,16 @@
 			<item>Q1 - What is the date of birth of Quaid-e-Azam?</item>
 			<item>Q2 - Where was Quaid-e-Azam born?</item>
 			<item>Q3 - What was the name of the building where Quaid-e-Azam was born?</item>
-			<item>Q4 - What was the name of Quaid's father?−</item>
-			<item>Q5 - What was the name of Quaid's mother?</item>
-			<item>Q6 - What was Quaid's mother tongue?</item>
-			<item>Q7 - What was the name of Quaid's first wife?−</item>
-			<item>Q8 - When did Quaid's mother die?</item>
-			<item>Q9 - When did Quaid's father die?</item>
+			<item>Q4 - What was the name of his father?−</item>
+			<item>Q5 - What was the name of his mother?</item>
+			<item>Q6 - What was his mother tongue?</item>
+			<item>Q7 - What was the name of his first wife?−</item>
+			<item>Q8 - When did his mother die?</item>
+			<item>Q9 - When did his father die?</item>
 			<item>Q10 - What was the name of his second wife?</item>
 		</string-array>
 		
-		<string-array name="options">
+		<string-array name="choices">
 			<item>December 22</item>
 			<item>December 24</item>
 			<item>December 25</item>
